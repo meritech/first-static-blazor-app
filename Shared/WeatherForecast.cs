@@ -1,5 +1,5 @@
 ﻿using System;
-
+// added test changes 2-7-22
 namespace BlazorApp.Shared
 {
     public class WeatherForecast
